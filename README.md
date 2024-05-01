@@ -1,1 +1,1 @@
-# recipes
+Through this project, I learned how to add HTML elements into a website (text, links, images)
